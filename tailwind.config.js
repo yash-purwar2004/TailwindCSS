@@ -2,7 +2,8 @@
 module.exports = {
   content: ["./dist/*.html"],
   theme: {
-    extend: {},
+    extend: {
+    },
   },
   plugins: [],
 }
